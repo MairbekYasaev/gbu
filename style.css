@@ -150,6 +150,11 @@
     padding: 0px 32px;
     margin-top: 66px;
 }
+
+.featured__content img {
+    width: 670px;
+    height: 350px;
+}
 .featured__content_button a {
     text-decoration: none;
     color: #232536;
